@@ -109,4 +109,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Flask](https://flask.palletsprojects.com/)
 - [Bootstrap](https://getbootstrap.com/)
 
----
+There are some file that are missing as it is too big to upload on github so here are the photos
+
+![Screenshot 2024-07-14 223850](https://github.com/user-attachments/assets/1a38ffa4-5825-4f8f-8e6e-a1055fdcde8d)
+
+![Screenshot 2024-07-14 223857](https://github.com/user-attachments/assets/61f6b0b3-dd31-48ad-aeca-b66f3febc072)
