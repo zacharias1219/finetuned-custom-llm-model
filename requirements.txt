@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+Flask==2.0.1
+torch==1.10.0
+transformers==4.12.5
+=======
+Flask==2.0.1
+torch==1.10.0
+transformers==4.12.5
+>>>>>>> 6000d4c4d433697fd933fc82e125af8c55b5fed5
