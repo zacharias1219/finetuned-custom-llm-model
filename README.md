@@ -20,8 +20,8 @@ This project is a Flask-based web application that integrates a fine-tuned langu
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/chatbot-application.git
-cd chatbot-application
+git clone https://github.com/zacharias1219/finetuned-custom-llm-model.git
+cd finetuned-custom-llm-model
 ```
 
 ### 2. Set Up the Virtual Environment
